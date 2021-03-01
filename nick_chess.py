@@ -12,6 +12,7 @@ def extract_variables(game):
         'black': game.headers['Black'],
     }
 
+    
 # Open the pgn file
 pgn = open("pgn/caro_kann.pgn")
 game = chess.pgn.read_game(pgn)
