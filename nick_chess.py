@@ -12,9 +12,9 @@ def extract_variables(game):
         'black': game.headers['Black'],
     }
 
-    
+# TODO: Extract into a function
 # Open the pgn file
-pgn = open("pgn/caro_kann.pgn")
+pgn = open("pgn/kasparov.pgn")
 game = chess.pgn.read_game(pgn)
 
 variables = extract_variables(game)
