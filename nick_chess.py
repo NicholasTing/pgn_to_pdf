@@ -1,4 +1,8 @@
 from reportlab.pdfgen.canvas import Canvas
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
+from reportlab.lib.pagesizes import A4, landscape, portrait
+
+
 import chess.pgn
 
 # TODO: find out which variables are present in most games
@@ -23,3 +27,7 @@ print(variables)
 canvas = Canvas("chess.pdf")
 canvas.drawString(72, 72, "Hello, World")
 canvas.save()
+
+doc = SimpleDocTemplate("form_letter.pdf",pagesize=portrait(A4),
+                        rightMargin=72,leftMargin=72,
+                        topMargin=72,bottomMargin=18)
