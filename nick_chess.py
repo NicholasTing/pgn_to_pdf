@@ -20,6 +20,6 @@ game = chess.pgn.read_game(pgn)
 variables = extract_variables(game)
 print(variables)
 
-canvas = Canvas("hello.pdf")
+canvas = Canvas("chess.pdf")
 canvas.drawString(72, 72, "Hello, World")
 canvas.save()
