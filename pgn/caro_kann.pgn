@@ -1,0 +1,152 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caro-Kann"]
+[Black "Repertoire Overview"]
+[Result "*"]
+[ECO "B15"]
+[Annotator "Gotham"]
+[PlyCount "28"]
+
+{Welcome to my 2021 updated Caro-Kann course! In our introductory file I would
+like to give you an overview of our repertoire. This is not a comprehensive
+file of every single line, rather it can serve you as a roadmap as to White's
+and Black's options. I will also outline where I present several options for
+Black and my thoughts on how you can pick your preferred lines.} 1. e4 c6 {
+Here we go! Our idea is to occupy the center with c6-d5 and adopt a light
+square strategy. By attacking White's e4 pawn we also strive to give our Bc8 a
+home on f5 square, although as we will see we don't always utilize the
+possibility.} 2. d4 {Surely the best move for White is to occupy the center
+but he also has some other viable options} (2. Nc3 d5 3. Nf3 {Is a very
+popular and sound variation known as the "Two Knights." This variation has
+seen a surge of popularity in the last years as it has been recommended in
+several White repertoires and new ideas have been found.} Bg4 {is the solid
+and most popular move. The main line goes} (3... dxe4 {Capturing on e4 seeks
+to transpose to positions seen in the Tartakower Classical variation (see main
+line) which have been revived with new ideas for Black in recent years.} 4.
+Nxe4 Nf6) (3... a6 {This little pawn nudge is roughly 50x less popular than
+the main move 3..Bg4 so it contains great surprise value. It also scores 56%
+for Black! We are making a small useful waiting move to control the b5 square
+and considering playing Bg4 at a more opportune moment.}) 4. h3 Bxf3 5. Qxf3 e6
+{[%csl Gb7,Gc1,Gc6,Gd5,Ge6,Gf1,Gf7] Where White is happy to get the bishop
+pair but Black is very solid and puts the pawns on the light squares. There
+have been many setups tried for White here but I have an offbeat suggestion
+for Black involving a Kingside fianchetto:}) (2. Nf3 d5 3. exd5 cxd5 4. d4 {
+is an offshoot type of Exchange Variation of the Caro. White goes for simple
+development but lets Black do the same. The resulting middgames are give us
+comfortable play as I will show in the files.}) (2. c4 {is known as the
+"Pseudo-Panov" and after} d5 3. exd5 cxd5 4. cxd5 (4. d4 {is the Panov}) 4...
+Nf6 {White has some options to try to cause trouble before Black collects the
+pawn back and short castles. With knowledge of a few key lines Black will
+emerge in good shape. I would say this line is not really seen much nowadays
+and is not popular at club level, although it is completely respectable.}) (2.
+d3 {is a "KIA" (Kings Indian Attack) setup which of course will have it's
+Kings Indian fans. I've definitely seen it a fair bit online and several times
+OTB but we will get a good game by taking over the center} d5 3. Nd2 e5) 2...
+d5 3. Nc3 {Protecting the pawn with Nc3/Nd2 is known as the "Classical"
+variation. Nothing more classical than developing a piece and protecting the
+center! This variation remains extremely popular but in my opinion is not as
+challenging as the Advance variation (3. e5).} (3. Nd2 dxe4 {Will transpose to
+3. Nc3}) (3. e5 $1 {I believe that the Advance Variation may be the "best"
+line at White's disposal. The idea is clear: grab the space! Now the main move
+is 3...Bf5, a move that is certainly very adequate and developing. However, I
+am rolling with the less popular 3..c5!} c5 $5 4. dxc5 $1 {This greedy move is
+considered critical. White grabs the pawn and dares Black to retrieve it!} (4.
+c3 {This is a very important move to analyze. Although 4. dxc5! is arguable
+most challenging, 4. c3 is roughly 3x more popular at the club level. However
+this move is not so tough as it allows Black a version of a "good french".
+Something like:} Nc6 5. Nf3 Bg4 6. Be2 e6 {[%csl Rd4,Gg4][%cal Gd8b6,Gg8h6,
+Gg8e7,Ge7f5,Gh6f5] is an example! The position has a French structure (e4 e6
+d4 d5 e5 c5) with the key distinction of Black's Bc8 being active on g4! This
+is another reason I am happy to recommend 3..c5: many opponents will
+unwittingly allow us this juicy continuation.}) (4. c4 $5 {is an aggressive
+option}) 4... Nc6 $5 {This is the ambitious way to continue. We refuse to
+close the Bc8! I think that unless White has deep theoretical knowledge of the
+position then Nc6 would be my choice (and has been vs several master+ players).
+However White does have some challenging retorts that we need to deal with.} (
+4... e6 {is a solid alternative})) (3. exd5 cxd5 4. Bd3 {[%cal Gc1f4,Gc2c3,
+Gb1d2,Gg1f3] This is the "Exchange Variation" and is a very popular line with
+Masters and Amateurs alike. It is also a very frequent guest in online play.
+The allure of this line for White is the promise of a simple developmental
+setup with potential attacking chances.} (4. c4 {This is the "Panov-Botvinnik
+Attack." This variation often gives rise to the famous "IQP" (Isolated Queen's
+Pawn) structures that has been debating and analyzed endlessly over the past
+century. There isn't anything particularly wrong with this line for White in
+my view its popularity has been dwindling. I used to place it in the "Big
+Four" of Classical, Advance, and Exchange variations but I think now the Two
+Knights is more popular. Anyway, my main recommendation is the g6 fianchetto
+which can be very unpleasant for White to face if he is unprepared (a common
+issue here for club/amateur players!). My surprise recommendation is one that
+I've used successfully myself and will either give you a second option or you
+can even make it your main idea!} Nf6 5. Nc3 g6 {My preference. By
+fianchettoing our Bf8 we keep the Bc8 open and also seek to put additional
+pressure onto the d4 pawn.} (5... Nc6 6. Nf3 (6. Bg5 Ne4 $5 {This line can
+lead to very dynamic play}) 6... Be6 {Surprise! This quirky move seeks to
+resolve the pressure on the d5 pawn and force White to make a decision.}) 6.
+Nf3 (6. Qb3 $1 Bg7 7. cxd5 {is the main and critical line. We sacrifice a pawn
+but will try to collect it back in the future! Again as I have said about
+several of the lines in this overview, this is a line that either a Master or
+well prepared opponent will use. Of course I have analyzed this idea deeply to
+give you good retorts in either case. Nevertheless if you are facing an
+unprepared or amateur opponent then the inferior 6. Nf3?! will be seen more
+often!}) 6... Bg7 7. Be2 O-O 8. O-O dxc4 9. Bxc4 Nc6 {[%csl Rd4][%cal Gg7d4,
+Gc6d4,Gd8d4,Gc8g4,Gb7b6,Gc8b7] is a pleasant anti-IQP position!}) 4... Nc6 5.
+c3 Nf6 (5... Qc7 {[%cal Rc1f4] This main line option prevents Bf4 and has
+generally scored very strongly for Black.}) 6. Bf4 Bg4 {continues simple
+development and usuall White wil try to attack our kingside while we storm the
+queenside} (6... g6 $5 {This was the first line I learned vs the Exchange I
+really liked and have shown it to many of my students. The resulting positions
+are easy to play and White is often unsure how to meet them. Definitely
+recommend this line for u2200 play:} 7. Nd2 Bg7 8. Ngf3 O-O 9. O-O Bf5 10. Bxf5
+gxf5 {Black scores 56% here. We will occupy e4 and perhaps use the g-file to
+attack})) (3. f3 {This is the "Fantasy Variation". This can be a very
+unpleasant line to face without preparation as White seeks to have a big
+center and attack/squash us.} e6 {Keeping things nice and solid, frustrating
+White.} (3... e5 $5 {A violent counterattacking gambit!} 4. dxe5 Bc5 {[%csl
+Re1]}) 4. Nc3 Qb6 $5 {Bringing the queen out early but placing annoying
+pressure on the d4/b2 pawns. This move has scored excellently for Black but is
+not very popular. That is a perfect repertoire weapon for my checklist!}) 3...
+dxe4 4. Nxe4 Nf6 {This variation has been around for a while but perhaps did
+not enjoy the best reputation as Black is seemingly doubling his pawns for no
+gain. However it is apparent nowadays that such thinking was too simplistic
+and Nf6 is enjoying a big surge in popularity. I definitely think this is the
+move to learn as your main weapon.} (4... Bf5 {This is the main move and is
+known as the Capablanca variation. This move is perfectly fine and I have
+played it myself for many years and many games} 5. Ng3 Bg6 {White actually has
+a lot of pesky sideline setups here but we will just overview the main line} 6.
+h4 h6 7. Nf3 e6 $5 {is very interesting and a modern twist. Black doesn't mind
+allowing Ne5 and also hopes that the Nb8 may jump to c6 instead in the future.
+I think Black is doing fine after Nd7 as well but White may be less prepared
+to deal with this modern try} (7... Nd7 {This is the very well explored "old
+main line" and often times the opening moves are blitzed here} 8. h5 Bh7 9. Bd3
+Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 Nxe4 15. Qxe4
+Nf6 16. Qe2 Qd5 {While both sides had deviations along the way, this is really
+the main line with 750 games played. Again I should say that this "Old Main
+Line" is fine for black but has arguably been better trodden than the paths of
+7..e6!? or the earlier 4... Nf6 Tartakower.})) 5. Nxf6+ {Really this makes the
+most sense but of course we will look at alternatives in the main file.} exf6
+$1 {[%cal Gf8d6,Gc8e6,Ge8g8,Gb8d7] As mentioned, Black does get doubled pawns
+but now development will flow as free as water. Often times Black will also
+get attacking chances on the Kingside by pointing his pieces there and
+potentially even sacrificing and pawn storming!} 6. Nf3 {An unprepared
+opponent is way more likely to develop naturally as such and the resulting
+positions will give Black excellent play and activity. Although I don't think
+Nf3 is the best move it is still important to learn and understand the
+resulting positions for Black.} (6. c3 {This move, or rather the setup that
+follows, has been established as White's most testing idea. Many experienced
+players may know this from reviewing their openings but it is very rare for an
+unprepared player to play this idea at the board.} Bd6 7. Bd3 O-O 8. Qc2 Re8+
+9. Ne2 {Now Black has to make a decision regarding protecting the h7 pawn.
+This variation was considered better for White for many years but recently has
+been a fertile battle ground for many Grandmasters as Black discovered the idea
+} h5 $1 {This move was first played in 2014 but did not recieve attention
+until it was repeated in 2017 by several Grandmasters. Since then hundreds of
+games have tested this move and it is firmly the main line. The idea in a
+nutshell is to get the pawn out of harm's way and often times push it to h4.
+The subtleties will be further explored in the Tartakower file. Now White has
+a choice: castle long or short? With a few key ideas, Black's game will be
+easy to handle regardless and I believe this is an excellent repertoire option
+for spirited play}) 6... Bd6 7. h3 O-O 8. Be2 Re8 9. O-O Be6 10. Be3 Nd7 11.
+Qd2 Nf8 12. Rfe1 Qd7 13. Rad1 Bxh3 $1 14. gxh3 Qxh3 $19 {[%cal Ge8e4,Ge4g4] is
+a taste of how Black can develop and get an attack. See the files for more!} *
